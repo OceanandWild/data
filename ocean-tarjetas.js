@@ -1,5 +1,5 @@
 const tarjetasOcean = [
-    { numero: '123456789', saldo: 100 },
+    { numero: '123456789', saldo: 5500 },
     { numero: '987654321', saldo: 50 },
     { numero: '112233445', saldo: 200 },
   ];
